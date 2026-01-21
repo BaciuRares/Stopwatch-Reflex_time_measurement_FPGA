@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue May 27 16:15:58 2025
+# Process ID         : 25584
+# Current directory  : D:/Documentss/An 2/Sem2/SCID/SCID_Proiect_lastVersion/projectSCID_BPRares_2124/projectSCID_BPRares_2124.runs/impl_1
+# Command line       : vivado.exe -log Stopwatch_main.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Stopwatch_main.tcl -notrace
+# Log file           : D:/Documentss/An 2/Sem2/SCID/SCID_Proiect_lastVersion/projectSCID_BPRares_2124/projectSCID_BPRares_2124.runs/impl_1/Stopwatch_main.vdi
+# Journal file       : D:/Documentss/An 2/Sem2/SCID/SCID_Proiect_lastVersion/projectSCID_BPRares_2124/projectSCID_BPRares_2124.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-339HBGO
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i7-12700H
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 16782 MB
+# Swap memory        : 13958 MB
+# Total Virtual      : 30740 MB
+# Available Virtual  : 12792 MB
+#-----------------------------------------------------------
+source Stopwatch_main.tcl -notrace
